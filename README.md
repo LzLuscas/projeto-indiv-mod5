@@ -1,7 +1,10 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=5000&color=830FDE&background=AC4FFF00&center=true&multiline=true&width=435&lines=Css+Tool" alt="Typing SVG" /></a> </h1>
+<h1 align="center"> Ferramenta Css </h1>
 
 > ## Descrição do Projeto
-Css Tool é uma ferramenta no terminal que através de uma lista vai facilitar o dia a dia dos desenvolvedores com Css.
+Vamos usar o Node para montar um código que vai receber uma lista de
+propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver
+essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a
+propriedade que precisamos alterar.
 
 > ## Requisitos 
 Entregar um código capaz de receber uma lista de
@@ -21,7 +24,6 @@ O código deve rodar em um laço que vai receber propriedades até a pessoa digi
 `node index.js`
  
 
-## <h2 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=7000&color=830FDE&background=AC4FFF00&center=true&width=435&lines=Print's" alt="Typing SVG" /></a> </h2>
+![print-projeto-individual-modulo5](https://user-images.githubusercontent.com/115434062/227525348-43f38bc8-f432-4e54-8334-d79eb57cdb3d.png)
 
-![print-css-tool](https://user-images.githubusercontent.com/115565161/225421488-4c0ea600-5236-4327-9896-abd6ee571a87.png)
 
